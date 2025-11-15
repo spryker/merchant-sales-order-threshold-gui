@@ -5,7 +5,7 @@
     "license": "proprietary",
     "require": {
         "php": ">=8.3",
-        "spryker/sales-order-threshold-gui": "^1.6.0"
+        "spryker/sales-order-threshold-gui": "^1.6.0 || ^2.0.0"
     },
     "require-dev": {
         "spryker/code-sniffer": "*"
